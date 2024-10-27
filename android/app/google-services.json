@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25118713236",
+    "project_id": "smartdoorlocksystem-94ee7",
+    "storage_bucket": "smartdoorlocksystem-94ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25118713236:android:136bb2e194fbf0df85db81",
+        "android_client_info": {
+          "package_name": "com.example.smartdoorlocksystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeaimPieEk5m2EGUk3ytDTnGbymvl581Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
