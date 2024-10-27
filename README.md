@@ -9,10 +9,3 @@ Users can unlock or lock the door via the app, which also includes user authenti
 - User authentication (Login, Signup, Forgot Password) using Firebase.
 - Unlock/Lock button functionality in the app.
 
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Haridev21/SmartDoorLock_Application.git
