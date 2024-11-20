@@ -18,33 +18,33 @@ The **Smart Door Lock Application** allows users to control a door lock mechanis
    - Includes functionality for forgotten passwords via Firebase.
    - The page design includes fields for email, password, and a button to submit the information.
 
-   ![Login Page](login_page_image.jpeg)
+   ![Login Page](img/login.png)
 
 ### 2. **Signup Page**:
    - Allows new users to register with their email, password, and confirm the password fields.
    - User data is stored securely in Firebase.
 
-   ![Signup Page](signup_page_image.jpeg)
+   ![Signup Page](img/signup.jpeg)
 
 ### 3. **Home Page**:
    - After successful login, users are directed to the home page.
    - This page gives an overview of the current status of the door lock (locked or unlocked).
    - Provides access to Bluetooth connectivity settings.
 
-   ![Home Page](home_page_image.jpeg)
+   ![Home Page](img/home.png)
 
 ### 4. **Lock Control Page**:
    - Provides buttons to lock and unlock the door. 
    - The status of the lock is updated in real-time based on the user's actions.
    - The Bluetooth module connects to the Arduino Mega, sending signals to control the door lock mechanism.
 
-   ![Lock Control Page](lock_page_image.jpeg)
+   ![Lock Control Page](img/pass.png)
 
 ### 5. **Bluetooth Connectivity Page**:
    - Allows users to pair their phone with the HC-05 Bluetooth module attached to the Arduino.
    - Displays the Bluetooth connection status and available devices.
    
-   ![Bluetooth Connectivity Page](bluetooth_page_image.jpeg)
+   ![Bluetooth Connectivity Page](img/blu.jpeg)
 
 
 
