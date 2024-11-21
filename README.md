@@ -1,5 +1,5 @@
 # Smart Door Lock Application
-
+## 🎥 [Click here for demo video](https://drive.google.com/drive/folders/1EyRwp7L2ESP2sx44u6QuYgn9d9g-N-rZ?usp=sharing "🔼 Google Drive ") 🎥
 ## Overview
 The **Smart Door Lock Application** allows users to control a door lock mechanism using an **Arduino Mega** and a **Bluetooth HC-05 module**. The app provides functionalities to lock or unlock the door through Bluetooth communication, with user authentication powered by Firebase.
 
